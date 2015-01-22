@@ -1,0 +1,38 @@
+{
+    // Sets the colors used within the text area
+    "color_scheme": "Packages/Theme - Soda/Monokai Soda.tmTheme",
+    "theme": "Soda Dark.sublime-theme", 
+ 
+    "soda_classic_tabs": true,
+    "soda_folder_icons": true,
+
+    "caret_style": "phase",
+
+    "highlight_line": true,
+
+    // Font face & size
+    "font_face": "Consolas",
+    "font_size": 16,
+
+    // Characters that are considered to separate words
+    "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+
+    "preview_on_click": true,
+
+    // The number of spaces a tab is considered equal to
+    "tab_size": 4,
+
+    "line_padding_bottom": 1,
+    "Line_padding_top": 1,
+
+    // Makes tabs with modified files more visible
+     "highlight_modified_tabs": true,
+
+    // List any packages to ignore here. When removing entries from this list,
+    // a restart may be required if the package contains plugins.
+    "ignored_packages":
+    [
+        "Vintage",
+        "Sublime Linter"
+    ]
+}
